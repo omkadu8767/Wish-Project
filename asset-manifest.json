@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Wish-Project/static/css/main.34bde532.css",
-    "main.js": "/Wish-Project/static/js/main.971cafb6.js",
+    "main.js": "/Wish-Project/static/js/main.8d51e454.js",
     "index.html": "/Wish-Project/index.html",
     "main.34bde532.css.map": "/Wish-Project/static/css/main.34bde532.css.map",
-    "main.971cafb6.js.map": "/Wish-Project/static/js/main.971cafb6.js.map"
+    "main.8d51e454.js.map": "/Wish-Project/static/js/main.8d51e454.js.map"
   },
   "entrypoints": [
     "static/css/main.34bde532.css",
-    "static/js/main.971cafb6.js"
+    "static/js/main.8d51e454.js"
   ]
 }
