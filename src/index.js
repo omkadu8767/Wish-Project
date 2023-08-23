@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import './index.css';
 
 
-let curDate=new Date(2023,5,5,14);
+let curDate=new Date();
 curDate=curDate.getHours();
 let greeting='';
  const cssStyle={
